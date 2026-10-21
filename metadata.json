@@ -1,0 +1,6 @@
+{
+  "name": "Toolyard - Construction Toolroom & Asset Tracking",
+  "description": "High-fidelity native iPhone mockup of Toolyard, the modern construction toolroom, equipment servicing, and job site asset management app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
